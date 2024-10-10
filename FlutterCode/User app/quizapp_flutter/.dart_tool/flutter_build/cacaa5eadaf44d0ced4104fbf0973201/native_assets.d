@@ -1,0 +1,1 @@
+ /Users/engelbertrichelieu/Documents/Projets/Mundi/MightyQuiz_SourceCode/FlutterCode/User\ app/quizapp_flutter/.dart_tool/flutter_build/cacaa5eadaf44d0ced4104fbf0973201/native_assets.yaml: 

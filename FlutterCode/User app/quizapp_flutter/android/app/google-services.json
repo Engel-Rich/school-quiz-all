@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "777504422268",
+    "project_id": "bd-quiz-7c615",
+    "storage_bucket": "bd-quiz-7c615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777504422268:android:53a5f0b1c369c273128cf9",
+        "android_client_info": {
+          "package_name": "com.mundi.schoolquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777504422268-p7vao81n2iofl5dd2bjqsdtr7c0ftg6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mundi.schoolquiz",
+            "certificate_hash": "3e46823d0180a0cb8fde81111112961b8a175a81"
+          }
+        },
+        {
+          "client_id": "777504422268-u9r0dcse8rsl30v5qqlbhlmhf23erkh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7uYuCRSsGGJhzGpjnSZactDneKrz1eSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777504422268-pnbu6ch31g97pgugntjik3evql9h4ruh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777504422268-f06sk2932a618m8oo9rfrrsj8vq5aaqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mundi.schoolquiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
